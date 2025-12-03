@@ -44,7 +44,37 @@ nav{
     font-weight: bold;
     margin:80px;
 }
-#span>span{
-    font-size: xx-small;
-    margin: 80px;
+#co>#improve{border: 2px solid  rgb(153, 143, 143);
+  display: inline-block;
+  vertical-align: middle;
+background-color: white;
+width: 300px;
+height: 120px;
+border-radius: 15px;
+margin:0 50px 0 10px;
+padding: 20px;
+}
+
+#co>#dev{
+  display: inline-block;
+  vertical-align: middle;
+  border: 2px solid  rgb(153, 143, 143);
+ background-color: white;
+width: 300px;
+height: 120px; 
+border-radius: 15px;
+margin:0 50px 0 10px;
+padding: 20px;
+
+}
+#co>#save{
+  display: inline-block;
+  vertical-align: middle;
+  border: 2px solid rgb(153, 143, 143) ;
+background-color: white;
+width: 300px;
+height: 120px;
+border-radius: 15px;
+margin:0 50px 0 10px;
+padding: 20px;
 }
